@@ -34,6 +34,9 @@ namespace Practice3
 
             Task1015();
 
+            /*Пятым заданием попался 959, который уже был.*/
+
+
             Console.ReadKey();
         }
 
